@@ -1,4 +1,4 @@
-package com.zking.ssh.base.jwt;
+package com.zking.ssh.jwt;
 
 import java.util.Date;
 import java.util.Map;

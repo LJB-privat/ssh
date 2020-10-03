@@ -13,7 +13,7 @@ import org.hibernate.criterion.CriteriaSpecification;
 import org.springframework.orm.hibernate5.HibernateCallback;
 import org.springframework.orm.hibernate5.support.HibernateDaoSupport;
 
-import com.zking.ssh.base.util.PageBean;
+import com.zking.ssh.util.PageBean;
 
 public abstract class BaseDao extends HibernateDaoSupport {
 	

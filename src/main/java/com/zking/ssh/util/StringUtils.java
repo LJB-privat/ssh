@@ -1,4 +1,4 @@
-package com.zking.ssh.base.util;
+package com.zking.ssh.util;
 
 public class StringUtils {
 	// 私有的构造方法，保护此类不能在外部实例化

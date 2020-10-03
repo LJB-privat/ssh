@@ -1,4 +1,4 @@
-package com.zking.ssh.base.util;
+package com.zking.ssh.util;
 
 import java.io.IOException;
 
